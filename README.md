@@ -1,2 +1,2 @@
-# DS-exerc-cios-05-03
+# DS-exercícios-05-03
 desenvolvimento de sistemas - Ana Paula
